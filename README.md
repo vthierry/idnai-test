@@ -3,7 +3,7 @@
 ## A sandbox idnai-* testing repository, better not consider.
 
 - homepage: [https://vthierry.github.io/idnai-test](https://vthierry.github.io/idnai-test) for documentation
-- version: 0.0.1 at 2026-10-04T17:00
+- version: 0.0.1 at 2026-10-04T17:15
 - license: [CeCILL-C](https://en.wikipedia.org/wiki/CeCILL) for source-code, [CC-BY](https://creativecommons.org/licenses/by/4.0/legalcode) for documents,multimedia
 - contributors: ([https://github.com/vthierry](https://github.com/vthierry)) is a developer
 - repository: { type: git url: "https://github.com/vthierry/idnai-test" }
